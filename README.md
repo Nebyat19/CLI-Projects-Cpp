@@ -7,14 +7,14 @@ This repository hosts a collection of C++ command-line projects. These projects 
 1. **Payroll Management System**
     - Description: A command-line application for managing employee payroll information.
     - Screenshots:
-        - ![Screenshot 1: Payroll Management - Main Menu](/screenshots/payroll1.png)
-        - ![Screenshot 2: Payroll Management - Employee Details](/screenshots/payroll2.png)
+        - ![Screenshot 1: Payroll Management - Main Menu](/screenshot/payroll1.png)
+        - ![Screenshot 2: Payroll Management - Employee Details](/screenshot/payroll2.png)
 
 2. **Food Ordering System**
     - Description: A command-line application for ordering food from a restaurant menu.
     - Screenshots:
-        - ![Screenshot 3: Food Ordering System - Main Menu](/screenshots/food1.png)
-        - ![Screenshot 4: Food Ordering System - Order Summary](/screenshots/order2.png)
+        - ![Screenshot 3: Food Ordering System - Main Menu](/screenshot/food1.png)
+        - ![Screenshot 4: Food Ordering System - Order Summary](/screenshot/order2.png)
 
 ## Usage
 
